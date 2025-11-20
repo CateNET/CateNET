@@ -1,12 +1,23 @@
-<div align="center">
+<!-- Hero -->
+<p align="center">
+  <img src="https://images.unsplash.com/photo-1461749280684-dccba630e2f6?auto=format&fit=crop&w=1600&q=80" width="100%" alt="CateNET Solutions Banner"/>
+</p>
 
-# CateNET Solutions
+<h1 align="center">CateNET Solutions</h1>
+<p align="center">
+  Development • Infrastructure • Branding • SEO • AI Solutions
+</p>
 
-Development • Infrastructure • Branding • SEO • AI Solutions
+<p align="center">
+  <a href="https://www.catenetsolutions.com"><img src="https://img.shields.io/badge/Website-Live-blue?style=for-the-badge&logo=vercel"></a>
+  <a href="mailto:hello@catenetsolutions.com"><img src="https://img.shields.io/badge/Email-hello@catenetsolutions.com-critical?style=for-the-badge&logo=gmail"></a>
+  <a href="https://www.linkedin.com/company/catenet-solutions"><img src="https://img.shields.io/badge/LinkedIn-Follow-0A66C2?style=for-the-badge&logo=linkedin"></a>
+  <a href="https://twitter.com/CateNETSol"><img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x"></a>
+</p>
 
-`hello@catenetsolutions.com` • [catenetsolutions.com](https://www.catenetsolutions.com) • [LinkedIn](https://www.linkedin.com/company/catenet-solutions)
-
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=22&pause=1200&color=5EF3FF&center=true&vCenter=true&width=600&lines=Innovate.+Deploy.+Scale.+;CateNET+Solutions+builds+digital+systems+that+perform.;Design+meets+code+meets+growth." alt="Typing SVG" />
+</p>
 
 ---
 
@@ -98,11 +109,13 @@ Automation   : Go, Python, Bash, PowerShell, GitOps workflows
 
 ## ⚙️ Tech Stack
 
-- Languages: TypeScript, JavaScript, Go, Python, C#, Rust, Dart, Swift/Kotlin
-- Frameworks: Next.js, React Native, Flutter, .NET, NestJS, Django, FastAPI
-- Data: PostgreSQL, MySQL, MongoDB, Redis, DynamoDB, PlanetScale
-- Cloud + Ops: AWS, Azure, GCP, Vercel, Docker, Kubernetes, Terraform, GitHub Actions
-- Design + Content: Figma, Adobe CC, Storybook, Webflow
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,go,python,cs,rust,dart,swift,react,nextjs,vue,nuxt,astro,flutter,tailwind,graphql,nodejs,django,dotnet,spring,fastapi,postgres,mysql,mongodb,redis,dynamodb,planetscale,aws,azure,gcp,vercel,cloudflare,docker,kubernetes,terraform,githubactions,gitlab,figma,ai" />
+</p>
+
+<p align="center">
+  <sub>Day-to-day favorites: TypeScript/Go/Python, Next.js/Flutter, Terraform/Kubernetes, GitHub Actions, Figma.</sub>
+</p>
 
 ---
 
