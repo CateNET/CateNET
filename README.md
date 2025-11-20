@@ -1,6 +1,6 @@
 <!-- Hero -->
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1461749280684-dccba630e2f6?auto=format&fit=crop&w=1600&q=80" width="100%" alt="CateNET Solutions Banner"/>
+  <img src="https://i.ibb.co/hRQxrXNT/banner.png" width="100%" alt="CateNET Solutions Banner"/>
 </p>
 
 <h1 align="center">CateNET Solutions</h1>
