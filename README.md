@@ -1,6 +1,6 @@
 <!-- Hero -->
 <p align="center">
-  <img src="https://i.ibb.co/hRQxrXNT/banner.png" alt="CateNET Solutions Banner">
+  <img src="https://raw.githubusercontent.com/CateNET/CateNET/main/banner.png" width="100%" />
 </p>
 
 <h1 align="center">CateNET Solutions</h1>
@@ -114,7 +114,7 @@ Automation   : Go, Python, Bash, PowerShell, GitOps workflows
 </p>
 
 <p align="center">
-  <sub>Day-to-day favorites: TypeScript/Go/Python, Next.js/Flutter, Terraform/Kubernetes, GitHub Actions, Figma.</sub>
+  <sub>Day to day favorites: TypeScript, React, Next.js, React Native, Expo, Supabase, Tailwind, Vercel, RISE CRM, Figma.</sub>
 </p>
 
 ---
