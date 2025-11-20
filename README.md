@@ -1,26 +1,12 @@
-<!-- Hero -->
-<p align="center">
-  <img src="https://images.unsplash.com/photo-1461749280684-dccba630e2f6?auto=format&fit=crop&w=1600&q=80" width="100%" alt="CateNET Solutions Banner"/>
-</p>
+<div align="center">
 
-<h1 align="center">CateNET Solutions</h1>
-<p align="center">
-  Development • Infrastructure • Branding • SEO • AI Solutions
-</p>
+# CateNET Solutions
 
-<p align="center">
-  <a href="https://www.catenetsolutions.com"><img src="https://img.shields.io/badge/Website-Live-blue?style=for-the-badge&logo=vercel"></a>
-  <a href="mailto:hello@catenetsolutions.com"><img src="https://img.shields.io/badge/Email-hello@catenetsolutions.com-critical?style=for-the-badge&logo=gmail"></a>
-  <a href="https://www.linkedin.com/company/catenet-solutions"><img src="https://img.shields.io/badge/LinkedIn-Follow-0A66C2?style=for-the-badge&logo=linkedin"></a>
-  <a href="https://twitter.com/CateNETSol"><img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x"></a>
-  <img src="https://img.shields.io/badge/Remote%20Ready-Yes-success?style=for-the-badge&logo=microsoftteams">
-  <img src="https://img.shields.io/badge/Founded-2018-7F52FF?style=for-the-badge">
-  <img src="https://komarev.com/ghpvc/?username=CateNET-Solutions&style=for-the-badge&color=ff69b4&label=Profile+Scans">
-</p>
+Development • Infrastructure • Branding • SEO • AI Solutions
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=22&pause=1200&color=5EF3FF&center=true&vCenter=true&width=600&lines=Innovate.+Deploy.+Scale.+;CateNET+Solutions+builds+digital+systems+that+perform.;Design+meets+code+meets+growth." alt="Typing SVG" />
-</p>
+`hello@catenetsolutions.com` • [catenetsolutions.com](https://www.catenetsolutions.com) • [LinkedIn](https://www.linkedin.com/company/catenet-solutions)
+
+</div>
 
 ---
 
@@ -112,24 +98,21 @@ Automation   : Go, Python, Bash, PowerShell, GitOps workflows
 
 ## ⚙️ Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,go,python,cs,rust,dart,swift,react,nextjs,vue,nuxt,astro,flutter,tailwind,graphql,nodejs,django,dotnet,spring,fastapi,postgres,mysql,mongodb,redis,dynamodb,planetscale,aws,azure,gcp,vercel,cloudflare,docker,kubernetes,terraform,githubactions,gitlab,figma,ai" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=CateNET-Solutions&theme=algolia&row=1&column=6&margin-w=10&margin-h=10" alt="GitHub Trophy" />
-</p>
+- Languages: TypeScript, JavaScript, Go, Python, C#, Rust, Dart, Swift/Kotlin
+- Frameworks: Next.js, React Native, Flutter, .NET, NestJS, Django, FastAPI
+- Data: PostgreSQL, MySQL, MongoDB, Redis, DynamoDB, PlanetScale
+- Cloud + Ops: AWS, Azure, GCP, Vercel, Docker, Kubernetes, Terraform, GitHub Actions
+- Design + Content: Figma, Adobe CC, Storybook, Webflow
 
 ---
 
-## 📊 Delivery Signals
+## 📊 Delivery Principles
 
-- 99.97% SLA upheld across managed infrastructure
-- Median PR turnaround: 6h 12m
-- 27 Lighthouse audits per release, avg score 96+
-- 100% IaC parity for supported clouds
-- 11 design systems shipped to prod
-- SEO retainers averaging 47% organic growth lift
+- Ship with measurable goals, not vanity metrics
+- Protect client data and confidentiality by default
+- Favor automation and reproducibility for every environment
+- Pair design + engineering + SEO so launches are cohesive
+- Document runbooks, retros, and lessons so teams keep improving
 
 ---
 
@@ -139,30 +122,6 @@ Automation   : Go, Python, Bash, PowerShell, GitOps workflows
 - **Shift-Left Security**: SAST/DAST, SBOMs, policy-as-code guardrails
 - **Observability First**: SLO-driven alerts, cured runbooks, chaos drills
 - **Test Everywhere**: contract tests, snapshots, infra validation, failover rehearsals
-
----
-
-## 📡 Signal Deck
-
-- `Status` → <img src="https://img.shields.io/uptimerobot/ratio/7/m792528234-1aab093b2610bc1c9c5f1b35?label=Infra+Uptime&style=flat-square"> <img src="https://img.shields.io/uptimerobot/status/m792528234-1aab093b2610bc1c9c5f1b35?label=APIs&style=flat-square">
-- `Latency` → <img src="https://img.shields.io/badge/API%20P95-142ms-brightgreen?style=flat-square"> (synthetic checks refreshed hourly)
-- `Build Health` → <img src="https://img.shields.io/badge/CI%20Stability-99.4%25-success?style=flat-square&logo=githubactions">
-- `Security` → <img src="https://img.shields.io/badge/CVEs%20open-0-critical?style=flat-square&logo=dependabot">
-- `Docs` → <img src="https://img.shields.io/badge/Runbooks-142-blue?style=flat-square&logo=notion"> maintained in Notion + synced to markdown via CI
-
-<sub>*Badges auto-refresh via scheduled Actions; live uptime sourced from public status pages.*</sub>
-
----
-
-## ⌨️ Terminal Peek
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="600" alt="Terminal workflow gif"/>
-</p>
-
-<p align="center">
-  <sub>Infra diffs, lint bots, deployment previews—all via CLI + GitHub Actions dispatch.</sub>
-</p>
 
 ---
 
@@ -179,24 +138,6 @@ gh workflow run lint.yml --repo CateNET-Solutions/template-next --ref main
 - `Action packs` for lint/test/build/deploy with reusable job matrices + concurrency tuning
 - `Issue forms` with auto-triage labels → piped into Projects v2 boards for each practice
 - `Dependabot` + `Renovate` tandem: semver-aware PR groups, preview env per dependency batch
-
----
-
-## ⏱️ WakaTime Snapshot
-
-> 7-day coding telemetry aggregated from anonymized, NDA-cleared repos. More detail on request.
-
-| Stack Slice | Hours | Share |
-| --- | --- | --- |
-| TypeScript / React toolchains | 17h 42m | 32% |
-| Terraform / Infra DSLs | 11h 05m | 20% |
-| Python + FastAPI services | 8h 13m | 15% |
-| Go microservices | 6h 47m | 12% |
-| AI / ML notebooks (LangChain, PyTorch) | 5h 21m | 10% |
-| Design systems & CSS tokens | 3h 18m | 6% |
-| Misc Ops scripting (Bash, PowerShell) | 1h 44m | 3% |
-
-<sub>Telemetry piped from WakaTime ➜ GitHub Actions ➜ markdown badge generator (private workflow).</sub>
 
 ---
 
@@ -219,14 +160,14 @@ gh codespace list --org CateNET-Solutions
 
 ---
 
-## 📦 Now Shipping
+## 📦 Current Focus
 
-| Quarter | Focus Thread | GitHub Geekery |
-| --- | --- | --- |
-| **Q4 ‘25** | AI enablement runway | Private Actions matrix for eval, Retrieval infra with gated artifact registry |
-| **Q3 ‘25** | Design-to-code bridge | Monorepo token sync, Storybook snapshots via Playwright + Chromatic |
-| **Q2 ‘25** | SEO automation layer | Scheduled Actions for audits, Issues auto-opened w/ structured remediation |
-| **Q1 ‘25** | Cloud baseline refresh | Terraform + Crossplane dual-source-of-truth, drift bots with policy gatechecks |
+| Theme | What We’re Building |
+| --- | --- |
+| AI enablement | Practical copilots and retrieval layers for internal teams |
+| Design-to-code workflow | Tokenized systems that sync from Figma to component libraries |
+| SEO automation | Repeatable audits, structured data enforcement, reporting cohesion |
+| Cloud baseline refresh | Consistent Terraform + Crossplane patterns that scale with clients |
 
 ---
 
@@ -253,39 +194,7 @@ gh codespace list --org CateNET-Solutions
 
 ## 📈 GitHub Org Signals
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=CateNET-Solutions&theme=tokyonight&hide_border=true" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=CateNET-Solutions&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="45%" />
-</p>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CateNET-Solutions&theme=react-dark&hide_border=true" width="100%">
-  <br/>
-  <sub>If the cards above don't render (rate limits or privacy settings), <a href="https://github.com/CateNET-Solutions?tab=repositories">visit our repo list</a> for the latest activity.</sub>
-</p>
-
-<details>
-  <summary>🐍 Contribution Snake (click to animate)</summary>
-  <p align="center">
-    <img src="https://raw.githubusercontent.com/CateNET-Solutions/CateNET-Solutions/output/github-contribution-grid-snake.svg" alt="snake gif">
-  </p>
-</details>
-
----
-
-## 🛰️ Status Radar
-
-<p align="center">
-  <a href="https://status.catenetsolutions.com">
-    <img src="https://img.shields.io/uptimerobot/status/m792528234-1aab093b2610bc1c9c5f1b35?label=Status%20Page&style=for-the-badge">
-  </a>
-  <a href="https://status.catenetsolutions.com/history">
-    <img src="https://img.shields.io/uptimerobot/ratio/30/m792528234-1aab093b2610bc1c9c5f1b35?label=30d%20Uptime&style=for-the-badge&color=brightgreen">
-  </a>
-</p>
-
-<p align="center">
-  <sub>Better Stack + UptimeRobot feed status.catenetsolutions.com, mirrored here via shields.</sub>
-</p>
+Most client code stays private. Public repos are primarily templates, starter kits, and tooling experiments we can safely share. Check the [org repositories](https://github.com/CateNET-Solutions?tab=repositories) for anything newly published.
 
 ---
 
